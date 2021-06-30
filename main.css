@@ -1,0 +1,46 @@
+body {
+  background-color: #ebebeb;
+  width: 100vw;
+}
+
+.container {
+  margin-left: 17vw;
+  margin-right: 27vw;
+  margin-top: 10vh;
+}
+
+p {
+  font-size: 15px;
+  font-style: Poppins;
+}
+
+.col-sm {
+  /* background-color: #000000; */
+}
+
+.one {
+/* background-color: #4287f5; */
+
+}
+
+.two {
+background-color: #4f57b
+}
+
+.three {
+
+}
+
+.responsive {
+  max-width: 97%;
+  height: auto;
+}
+
+.header {
+  margin-top: 1.5vh;
+}
+
+.bio {
+  margin-top: 1vh;
+  padding-right: 1vw;
+}
